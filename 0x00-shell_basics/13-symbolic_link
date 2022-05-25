@@ -1,4 +1,2 @@
 #!/bin/bash
-mkdir -p
-#!/bin/bash
 ln -s /bin/ls __ls__
