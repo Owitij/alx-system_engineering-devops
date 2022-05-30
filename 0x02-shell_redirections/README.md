@@ -1,1 +1,1 @@
-Print hello world followed by new line
+Output hello world followed by new line
